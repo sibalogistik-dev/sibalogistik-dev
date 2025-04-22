@@ -17,15 +17,16 @@ SIBA Logistik focuses on providing reliable and efficient logistics solutions, e
 1. Clone this repository:
    ```bash
    git clone https://github.com/sibalogistik-dev/repository-name.git
+   
 2. Follow specific setup instructions provided in the respective repositories (if applicable).
 
 ## Contributing
 
-For internal contributions, please reach out to the development team for access and further guidelines.
+For internal contributions, please reach out to the developer team for access and further guidelines.
 
 ## License
 
-This repository is private. All rights reserved to SIBA Logistik.
+Some of our repository is private. All rights reserved to SIBA Logistik Developer Team.
 
 Contact
 
