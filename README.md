@@ -26,7 +26,7 @@ For internal contributions, please reach out to the developer team for access an
 
 ## License
 
-Some of our repository is private. All rights reserved to SIBA Logistik Developer Team.
+Some of our repository are private. All rights reserved to SIBA Logistik Developer Team.
 
 Contact
 
