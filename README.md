@@ -8,8 +8,8 @@ SIBA Logistik focuses on providing reliable and efficient logistics solutions, e
 
 ## Technologies Used
 
-- **Web Development**: Laravel
-- **Database**: MySQL
+- **Web Development**: Laravel, VueJS
+- **Database**: MySQL, MongoDB
 - **Version Control**: Git
 
 ## Setup
