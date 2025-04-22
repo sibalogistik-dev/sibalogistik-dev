@@ -8,8 +8,7 @@ SIBA Logistik focuses on providing reliable and efficient logistics solutions, e
 
 ## Technologies Used
 
-- **Backend**: Laravel (PHP)
-- **Frontend**: Vue.js, Tailwind CSS
+- **Web Development**: Laravel
 - **Database**: MySQL
 - **Version Control**: Git
 
