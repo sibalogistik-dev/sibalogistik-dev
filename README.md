@@ -57,8 +57,7 @@ Jika Anda adalah bagian dari tim SIBA dan ingin kontribusi, silakan hubungi deve
 ## 📫 Kontak & Media Sosial
 
 📷 Instagram: [@sibacargoofficial](https://www.instagram.com/sibacargoofficial)  
-🌐 Website (coming soon): [www.sibalogistik.co.id](https://www.sibalogistik.co.id) _(optional)_  
-✉️ Email: dev@sibalogistik.co.id _(optional)_
+🌐 Website: [www.sibalogistik.com](https://www.sibalogistik.com)
 
 ---
 
