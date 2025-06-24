@@ -1,33 +1,68 @@
-# SIBA Logistik Development
 
-Welcome to the **SIBA Logistik** GitHub repository! This repository contains the codebase for SIBA Logistik's internal tools and systems that help optimize logistics and parcel delivery services.
+# 🚛 SIBA Logistik Development
 
-## About
+Selamat datang di repositori resmi **SIBA Logistik Developer Team**!  
+Kami membangun dan mengelola sistem internal untuk mendukung layanan logistik, pengiriman barang, dan tracking secara real-time.
 
-SIBA Logistik focuses on providing reliable and efficient logistics solutions, emphasizing real-time tracking, automation, and transparency. Our development efforts aim to streamline the shipping process and improve the customer experience.
+---
 
-## Technologies Used
+## 🧭 Tentang Kami
 
-- **Web Development**: Laravel, VueJS
-- **Database**: MySQL, MongoDB
-- **Version Control**: Git
+**SIBA Logistik** adalah perusahaan ekspedisi yang berfokus pada solusi logistik yang cepat, transparan, dan efisien.  
+Tim pengembang kami menciptakan berbagai sistem digital yang mendukung:
 
-## Setup
+- Otomatisasi proses pengiriman
+- Pelacakan barang secara real-time
+- Dashboard internal dan aplikasi berbasis web/mobile
+- Integrasi data pengiriman & operasional
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/sibalogistik-dev/repository-name.git
-   
-2. Follow specific setup instructions provided in the respective repositories (if applicable).
+---
 
-## Contributing
+## 🛠️ Teknologi yang Digunakan
 
-For internal contributions, please reach out to the developer team for access and further guidelines.
+| Kategori       | Teknologi                            |
+|----------------|--------------------------------------|
+| Frontend       | Nuxt.js, Vue.js, TailwindCSS         |
+| Backend        | Laravel, REST API                    |
+| Database       | MySQL, MongoDB                       |
+| DevOps & Tools | Git, GitHub, Docker (optional)       |
 
-## License
 
-Some of our repository are private. All rights reserved to SIBA Logistik Developer Team.
+---
 
-Contact
+## 📦 Repositori Publik
 
-For inquiries, please DM us on [Instagram](https://www.instagram.com/sibacargoofficial)
+> Beberapa proyek bersifat internal dan private, namun kami berencana membagikan komponen open-source ke depannya.  
+> 📌 Cek halaman repositori kami secara berkala untuk update.
+
+---
+
+## 🧑‍💻 Cara Setup (untuk internal developer)
+
+```bash
+git clone https://github.com/sibalogistik-dev/[nama-repo].git
+cd [nama-repo]
+# Ikuti petunjuk setup di masing-masing repositori
+```
+
+---
+
+## 🤝 Kontribusi
+
+Kontribusi terbuka hanya untuk tim internal.  
+Jika Anda adalah bagian dari tim SIBA dan ingin kontribusi, silakan hubungi developer lead melalui channel resmi.
+
+---
+
+## 📫 Kontak & Media Sosial
+
+📷 Instagram: [@sibacargoofficial](https://www.instagram.com/sibacargoofficial)  
+🌐 Website (coming soon): [www.sibalogistik.co.id](https://www.sibalogistik.co.id) _(optional)_  
+✉️ Email: dev@sibalogistik.co.id _(optional)_
+
+---
+
+## 🔐 Lisensi
+
+Beberapa repositori bersifat pribadi dan hanya digunakan untuk kebutuhan internal.  
+**Hak cipta © SIBA Logistik Developer Team**. All rights reserved.
