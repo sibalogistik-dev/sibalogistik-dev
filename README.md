@@ -1,12 +1,12 @@
 
-# 🚛 SIBA Logistik Development
+# SIBA Logistik Development 
 
 Selamat datang di repositori resmi **SIBA Logistik Developer Team**!  
 Kami membangun dan mengelola sistem internal untuk mendukung layanan logistik, pengiriman barang, dan tracking secara real-time.
 
 ---
 
-## 🧭 Tentang Kami
+## Tentang Kami
 
 **SIBA Logistik** adalah perusahaan ekspedisi yang berfokus pada solusi logistik yang cepat, transparan, dan efisien.  
 Tim pengembang kami menciptakan berbagai sistem digital yang mendukung:
@@ -18,7 +18,7 @@ Tim pengembang kami menciptakan berbagai sistem digital yang mendukung:
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 | Kategori       | Teknologi                            |
 |----------------|--------------------------------------|
@@ -30,14 +30,14 @@ Tim pengembang kami menciptakan berbagai sistem digital yang mendukung:
 
 ---
 
-## 📦 Repositori Publik
+## Repositori Publik
 
 > Beberapa proyek bersifat internal dan private, namun kami berencana membagikan komponen open-source ke depannya.  
-> 📌 Cek halaman repositori kami secara berkala untuk update.
+> Cek halaman repositori kami secara berkala untuk update.
 
 ---
 
-## 🧑‍💻 Cara Setup (untuk internal developer)
+## Cara Setup (untuk internal developer)
 
 ```bash
 git clone https://github.com/sibalogistik-dev/[nama-repo].git
@@ -47,21 +47,21 @@ cd [nama-repo]
 
 ---
 
-## 🤝 Kontribusi
+## Kontribusi
 
 Kontribusi terbuka hanya untuk tim internal.  
 Jika Anda adalah bagian dari tim SIBA dan ingin kontribusi, silakan hubungi developer lead melalui channel resmi.
 
 ---
 
-## 📫 Kontak & Media Sosial
+## Kontak & Media Sosial
 
-📷 Instagram: [@sibacargoofficial](https://www.instagram.com/sibacargoofficial)  
-🌐 Website: [www.sibalogistik.com](https://www.sibalogistik.com)
+Instagram: [@sibacargoofficial](https://www.instagram.com/sibacargoofficial)  
+Website: [www.sibalogistik.com](https://www.sibalogistik.com)
 
 ---
 
-## 🔐 Lisensi
+## Lisensi
 
 Beberapa repositori bersifat pribadi dan hanya digunakan untuk kebutuhan internal.  
 **Hak cipta © SIBA Logistik Developer Team**. All rights reserved.
